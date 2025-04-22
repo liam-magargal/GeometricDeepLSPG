@@ -1,0 +1,1 @@
+python3 2D_Riemann_FOM.py 19 3.5;
